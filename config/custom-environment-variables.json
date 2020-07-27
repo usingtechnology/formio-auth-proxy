@@ -1,0 +1,12 @@
+{
+  "port": "PORT",
+  "target": "PROXY_TARGET",
+  "jwtSecret": "JWT_SECRET",
+  "projectId": "PROJECT_ID",
+  "userResourceId": "USER_RESOURCE_ID",
+  "roleAId": "ROLE_A_ID",
+  "roleBId": "ROLE_B_ID",
+  "administratorRoleId": "ADMIN_ROLE_ID",
+  "authenticateRoleId": "AUTH_ROLE_ID",
+  "anonymousRoleId": "ANON_ROLE_ID"
+}

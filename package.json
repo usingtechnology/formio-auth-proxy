@@ -1,0 +1,17 @@
+{
+  "name": "formio-auth-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "fast-gateway": "^2.4.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

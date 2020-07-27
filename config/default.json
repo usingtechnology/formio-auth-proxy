@@ -1,0 +1,12 @@
+{
+  "port": "8080",
+  "target": "https://chefs-jujaga-wxpbtr-dev.pathfinder.gov.bc.ca",
+  "jwtSecret": "CHANGE_TO_YOUR_SECRET",
+  "projectId": "5f0dec2f0972131ec5b9544b",
+  "userResourceId": "5f0dec2f0972138410b9544f",
+  "roleAId": "5f1732770972133009b95da0",
+  "roleBId": "5f17328d0972134d27b95da1",
+  "administratorRoleId": "5f0dec2f09721330aeb9544c",
+  "authenticateRoleId": "5f0dec2f097213967bb9544d",
+  "anonymousRoleId": "5f0dec2f09721320ceb9544e"
+}
