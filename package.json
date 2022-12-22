@@ -12,6 +12,6 @@
   "dependencies": {
     "config": "^3.3.1",
     "fast-gateway": "^2.4.2",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
